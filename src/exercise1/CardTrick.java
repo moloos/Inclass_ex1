@@ -70,9 +70,8 @@ public class CardTrick {
     private static void printInfo() {
     
         System.out.println("Congratulations, you guessed right!");
-        System.out.println();
-        
-        System.out.println("My name is Shiraz , but you can call me Shiraz........");
+       
+        System.out.println("\nMy name is Shiraz , but you can call me Shiraz........");
         System.out.println();
         
         System.out.println("My career ambitions: initial goal Computer Programmer");
@@ -86,8 +85,7 @@ public class CardTrick {
         System.out.println("-- Reading/Watching movies");
         System.out.println("-- watching stories on aviation");
 
-        System.out.println();
-        
+       
     
     }
 
